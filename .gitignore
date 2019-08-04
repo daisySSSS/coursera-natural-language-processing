@@ -103,6 +103,7 @@ ENV/
 # Data for assignments
 data/
 project/thread_embeddings_by_tags/*.pkl
+project/word_embeddings.tsv
 
 .idea
 week3/GoogleNews-vectors-negative300.bin.gz
